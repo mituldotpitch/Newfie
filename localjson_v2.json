@@ -94,7 +94,7 @@
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
-            "polygon": [
+                 "polygon": [
                 [
                     [
                         -126.838,
@@ -177,7 +177,7 @@
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
-            "polygon": [
+              "polygon": [
                 [
                     [
                         -126.838,
@@ -260,7 +260,7 @@
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
-            "polygon": [
+             "polygon": [
                 [
                     [
                         -126.838,
@@ -347,7 +347,7 @@
                     "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/smaJson_north_america_west_flipped.json"
                 }
             ],
-            "polygon": [
+           "polygon": [
                 [
                     [
                         -126.838,
@@ -557,6 +557,7 @@
             ]
         },
         {
+            "name": "usa-northeast",
             "whalewatchingguidelines": "EN_Guidelines_Default",
             "feeds": [
                 {
