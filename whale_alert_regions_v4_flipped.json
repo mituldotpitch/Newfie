@@ -966,7 +966,7 @@
             "feeds": [
                 {
                     "name": "sma",
-                    "url": "https://raw.githubusercontent.com/mituldotpitch/Newfie/refs/heads/main/localjson_v2.json"
+                    "url": "https://github.com/EarthNC/regionsJSON/raw/master/smaJson_north_america_west_flipped.json"
                 }
             ],
             "map-sources": [
