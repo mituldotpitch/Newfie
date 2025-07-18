@@ -44,11 +44,7 @@
                 {
                     "name": "sma",
                     "url": "https://github.com/mituldotpitch/Newfie/blob/main/localjson_v2.json"
-                },
-                {
-                    "name": "mpa",
-                    "url": "https:\/\/github.com\/EarthNC\/regionsJSON\/raw\/master\/mpa_usa_pnw_flipped.json"
-                }
+                } 
             ],
             "polygon": [
                 [
